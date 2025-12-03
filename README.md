@@ -17,7 +17,7 @@ It also comes with two accompanying data files which are needed for the analysis
 1. `moneyline.csv`: Money line data for NFL games
 2. `stats.csv`: Team statistics for NFL teams
 
-The Python libraries we used (in no particular order):
+We are using  `Python 3.11.5` for this project and the libraries we used (in no particular order) are:
 
 Analysis:
 - `pandas`
