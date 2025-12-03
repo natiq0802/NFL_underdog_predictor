@@ -29,7 +29,7 @@ Visualizations:
 - `ipywidgets`
 
 Machine Learning:
-- `sklearn`
+- `scikit-learn`
 
 File handling and parsing
 - `os`
@@ -37,3 +37,5 @@ File handling and parsing
 - `requests`
 - `typing`
 - `glob`
+
+See `requirements.txt` for exact versions of each. 
