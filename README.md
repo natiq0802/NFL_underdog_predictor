@@ -3,7 +3,7 @@ Repo for the final project for DSGA-1007, Programming for Data Science. We will 
 
 Our analysis covers the seasons between 2005 and 2015 (due to relative consistency in names and game rules over this period). 
 
-DISCLAIMER: We are not doing this for gambling purposes, but rather to try and uncover patterns and trends previously undetected. This project is motivated purely by curiosity and has zero monetary incentives. 
+**DISCLAIMER**: We are not doing this for gambling purposes, but rather to try and uncover patterns and trends previously undetected. This project is motivated purely by curiosity and has zero monetary incentives. 
 
 Our project is divided into 4 notebooks, each serving its own unique function:
 1. `Notebook-1.ipynb`: Data retrieval and loading
@@ -17,7 +17,7 @@ It also comes with two accompanying data files which are needed for the analysis
 1. `moneyline.csv`: Money line data for NFL games
 2. `stats.csv`: Team statistics for NFL teams
 
-The Python libraries we used (in no particular order):
+The Python libraries we used (in no particular order):\
 Analysis:
 - `pandas`
 - `numpy`
