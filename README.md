@@ -17,16 +17,20 @@ It also comes with two accompanying data files which are needed for the analysis
 1. `moneyline.csv`: Money line data for NFL games
 2. `stats.csv`: Team statistics for NFL teams
 
-The Python libraries we used (in no particular order):\
+The Python libraries we used (in no particular order):
+
 Analysis:
 - `pandas`
 - `numpy`
+
 Visualizations:
 -  `matplotlib`
 - `seaborn`
 - `ipywidgets`
+
 Machine Learning:
 - `sklearn`
+
 File handling and parsing
 - `os`
 - `re`
