@@ -5,7 +5,7 @@ Our analysis covers the seasons between 2005 and 2015 (due to relative consisten
 
 **DISCLAIMER**: We are not doing this for gambling purposes, but rather to try and uncover patterns and trends previously undetected. This project is motivated purely by curiosity and has zero monetary incentives. 
 
-Our project is divided into 4 notebooks, each serving its own unique function:
+Our project is divided into 4 notebooks, each serving its own unique function. They are intended to be used in the following order:
 1. `Notebook-1.ipynb`: Data retrieval and loading
 2. `Notebook-2.ipynb`: Data cleaning and standardizing
 3. `Notebook-3.ipynb`: Exploratory analysis and visualizations
